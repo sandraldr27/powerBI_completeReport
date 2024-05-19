@@ -3,6 +3,7 @@
 <h2>Project development</h2>
 <p>You work in a fictitious company that responds to customer requests and you aim to measure the level of response times and attention to tickets. 
 <p>Two designs are being worked on (Light and dark), so that both interact through bookmarks</p>
+<p>Module 2 Introduction to Power BI (IBM Certification).</p>
 <p>The project is made up of the development of the following points:</p>
 
 <ul>
