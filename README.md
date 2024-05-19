@@ -27,7 +27,10 @@
 <h2>Print of Report Dashboards:</h2>
 
 <h3>Dark Violet Dashboard Report</h3>
-![Dark Violet Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/7ef42298-5a08-41b9-ae1b-186df0ed0fa4)
+
+![Dark Violet Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/46d41fb4-122d-42c3-a8ec-302a92468088)
 
 <h3>Ligth Melon Dashboard Report</h3>
-![Ligth Melon Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/5c4bb4ff-39cc-49a5-946b-f9d4aaa025ca)
+
+![Ligth Melon Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/25759182-1565-4f8e-b9c0-81c29830bb1d)
+
