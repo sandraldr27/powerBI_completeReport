@@ -34,9 +34,11 @@
 
 <h3>Dark Violet Dashboard Report:</h3>
 
-![Dark Violet Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/46d41fb4-122d-42c3-a8ec-302a92468088)
+![violet](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/ad4acfa6-5822-49c3-abf8-dce7e60796e9)
+
 
 <h3>Ligth Melon Dashboard Report:</h3>
 
-![Ligth Melon Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/25759182-1565-4f8e-b9c0-81c29830bb1d)
+![melon](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/dd1538e5-3f14-4678-885c-c83c4c3fd836)
+
 
