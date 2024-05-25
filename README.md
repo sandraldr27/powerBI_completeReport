@@ -24,13 +24,19 @@
   <li>Bookmarks.</li>
 </ol>
 
-<h2>Print of Report Dashboards:</h2>
+<h2>Impressions of Power Query, Table, Model and Dashboard:</h2>
 
-<h3>Dark Violet Dashboard Report</h3>
+<h3>Power Query, Table & Model:</h3>
+
+![0](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/6a2f32ee-02b4-4cc1-b31b-b1ebd6e30b55)
+![1](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/20b3a1a8-c69a-470a-9b44-7b98168f3d8b)
+![2](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/12054cd9-73c9-4ae6-9dc7-0bd40c838dc0)
+
+<h3>Dark Violet Dashboard Report:</h3>
 
 ![Dark Violet Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/46d41fb4-122d-42c3-a8ec-302a92468088)
 
-<h3>Ligth Melon Dashboard Report</h3>
+<h3>Ligth Melon Dashboard Report:</h3>
 
 ![Ligth Melon Dashboard - Sandra León Del Risco](https://github.com/sandraldr27/powerBI_completeReport/assets/116546588/25759182-1565-4f8e-b9c0-81c29830bb1d)
 
